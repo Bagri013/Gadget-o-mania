@@ -1,0 +1,507 @@
+[{
+  "_id": {
+    "$oid": "635e209afca873293e59f984"
+  },
+  "proid": "M101",
+  "proname": "OnePlus 10T ",
+  "proimage": "https://m.media-amazon.com/images/I/71+xEIlS99L._SX679_.jpg",
+  "proprice": "49,999",
+  "procategory": "Mobile",
+  "prodetail": "Moonstone Black, 8GB RAM, 128GB Storage",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635e219afca873293e59f996"
+  },
+  "proid": "L101",
+  "proname": "Acer Aspire 3",
+  "proimage": "https://m.media-amazon.com/images/I/91yXhj4zw5L._AC_UY218_.jpg",
+  "proprice": "56990",
+  "procategory": "Laptop",
+  "prodetail": "Acer Aspire 3 Intel Core i5 12th Generation (8GB/512 GB SSD/Windows 11 Home/MS Office/1.7 Kg/Silver) A315-59 with 15.6-inch (39.6 cms) Full HD Laptop",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635e2245fca873293e59f99c"
+  },
+  "proid": "L102",
+  "proname": "Samsung Galaxy Note 9",
+  "proimage": "https://m.media-amazon.com/images/I/61wqYsqU6AL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "67,521",
+  "procategory": "Laptop",
+  "prodetail": " Intel 12th Gen core i5 39.6cm (15.6\") FHD LED (8 GB/512 GB SSD/Windows 11)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eb033167af94bcc4ecc31"
+  },
+  "proid": "M103",
+  "proname": "Apple iPhone 12",
+  "proimage": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg",
+  "proprice": "54,900",
+  "procategory": "Mobile",
+  "prodetail": "Apple iPhone 12 (128GB) - Blue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eb100167af94bcc4ecc3f"
+  },
+  "proid": "M104",
+  "proname": "Asus ROG 5",
+  "proimage": "https://m.media-amazon.com/images/I/31gOVj5XinL.jpg",
+  "proprice": "39,999",
+  "procategory": "Mobile",
+  "prodetail": "5G (Emerald Forest, 8GB RAM, 128GB Storage)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eb490167af94bcc4ecc94"
+  },
+  "proid": "L103",
+  "proname": "ASUS ROG Zephyrus",
+  "proimage": "https://m.media-amazon.com/images/I/81Nwu5Hp0jS._AC_UL640_QL65_.jpg",
+  "proprice": "1,15,200",
+  "procategory": "Laptop",
+  "prodetail": "AMD Ryzen 7 5800HS, GeForce RTX 3050 4GB Graphics, Gaming Laptop (8GB/1TB SSD/Office 2019/Windows 10/Moonlight White/1.6 Kg)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635eb559167af94bcc4ecc9a"
+  },
+  "proid": "L104",
+  "proname": "MacBook Air",
+  "proimage": "https://m.media-amazon.com/images/I/719C6bJv8jL._AC_SX451_SY423_.jpg",
+  "proprice": "1,49,900",
+  "procategory": "Laptop",
+  "prodetail": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ebeea02de07d3f8a57ab7"
+  },
+  "proid": "M105",
+  "proname": "Xiaomi 11T Pro",
+  "proimage": "https://m.media-amazon.com/images/I/61dtLQrQASL._SX679_.jpg",
+  "proprice": "36,999",
+  "procategory": "Mobile",
+  "prodetail": "5G Hyperphone (Celestial Magic, 8GB RAM, 256GB Storage)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ec02502de07d3f8a57ac3"
+  },
+  "proid": "M106",
+  "proname": "OnePlus Nord CE 2",
+  "proimage": "https://m.media-amazon.com/images/I/51gYsxBc6BL._SX679_.jpg",
+  "proprice": "24,999",
+  "procategory": "Mobile",
+  "prodetail": "5G (Gray Mirror, 8GB RAM, 128GB Storage)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ec0d402de07d3f8a57ac9"
+  },
+  "proid": "M107",
+  "proname": "Motorola Edge 30 Pro",
+  "proimage": "https://m.media-amazon.com/images/I/21n1TvWARFL.jpg",
+  "proprice": "49,990",
+  "procategory": "Mobile",
+  "prodetail": "(Cosmos Blue, 128 GB & 8 GB RAM)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ec16502de07d3f8a57adc"
+  },
+  "proid": "L106",
+  "proname": "Acer Nitro 5 ",
+  "proimage": "https://m.media-amazon.com/images/I/81-sGMkTFYL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "82,990",
+  "procategory": "Laptop",
+  "prodetail": "Intel core i7 11th Gen (16 GB/ 512 GB SSD/ NVIDIA® GeForce RTX 3050 Ti/ Windows 11 Home/144hz) AN515-57 with 39.6 cm (15.6 inches) IPS Display / 2.2 Kgs",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ec1b502de07d3f8a57ae2"
+  },
+  "proid": "L105",
+  "proname": "Mi Notebook ",
+  "proimage": "https://m.media-amazon.com/images/I/81RHHnGydgL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "63,999.",
+  "procategory": "Laptop",
+  "prodetail": "Ultra 3.2K Resolution Display Intel Core I5-11300H 11Th Gen 15.6 Inches Thin Light Laptop(16Gb/512Gb Ssd/Iris Xe Graphics/Windows 11 Home/Ms Office 21/Backlit Kb/Fingerprint Sensor/1.7Kg)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ad4fe2c18aefb4570bf3"
+  },
+  "proid": "M109",
+  "proname": "Apple iPhone 14",
+  "proimage": "https://m.media-amazon.com/images/I/51Sn5X2gfaL._SX679_.jpg",
+  "proprice": "79,900",
+  "procategory": "Mobile",
+  "prodetail": "128GB Blue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ae27e2c18aefb4570c05"
+  },
+  "proid": "M108",
+  "proname": "Xiaomi 12 Pro",
+  "proimage": "https://m.media-amazon.com/images/I/71auHN6KFXL._SX679_.jpg",
+  "proprice": "58,999",
+  "procategory": "Mobile",
+  "prodetail": "Opera Muave, 12GB RAM, 256GB Storage",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362ae83e2c18aefb4570c19"
+  },
+  "proid": "M110",
+  "proname": "Apple iPhone 13",
+  "proimage": "https://m.media-amazon.com/images/I/61CAYVr34QL._SX679_.jpg",
+  "proprice": "65,999",
+  "procategory": "Mobile",
+  "prodetail": "Phantom Black, 8GB RAM, 128GB Storage",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362b04be2c18aefb4570c33"
+  },
+  "proid": "C101",
+  "proname": "Nikon Z 7",
+  "proimage": "https://m.media-amazon.com/images/I/91s5RcaiQeL._SX450_.jpg",
+  "proprice": "3,78,216",
+  "procategory": "Camera",
+  "prodetail": "Mirrorless Digital Camera (Body Only) Kit with Charger, Battery, Cables, Neck Strap - Black",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362b086e2c18aefb4570c39"
+  },
+  "proid": "C102",
+  "proname": "Canon EOS M50",
+  "proimage": "https://m.media-amazon.com/images/I/619fzR1aB2L._SX569_.jpg",
+  "proprice": "54,995",
+  "procategory": "Camera",
+  "prodetail": "24.1MP Digital Zoom Mirrorless Camera (Black) with EF-M 15-45 is STM Lens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362b0f8e2c18aefb4570c43"
+  },
+  "proid": "C103",
+  "proname": "Sony Alpha ILCE-7M3K",
+  "proimage": "https://m.media-amazon.com/images/I/71j3bPnm+UL._SX569_.jpg",
+  "proprice": "1,70,093",
+  "procategory": "Camera",
+  "prodetail": "Full-Frame 24.2MP Mirrorless Digital SLR Camera with 28-70mm Zoom Lens (4K Full Frame, Real-Time Eye Auto Focus, Tiltable LCD, Low Light Camera) with Free Bag - Black",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362b169e2c18aefb4570c4a"
+  },
+  "proid": "C104",
+  "proname": "IZI ONE",
+  "proimage": "https://m.media-amazon.com/images/I/619ugNKXetL._SY450_.jpg",
+  "proprice": "10,999",
+  "procategory": "Camera",
+  "prodetail": "5K Ultra HD 48MP Touch & WiFi Action Camera with Dual Screen, 170° Wide Angle EIS Stabilisation Waterproof Vlog Video Camera 2 X 1350 mAH Battery",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362b1b9e2c18aefb4570c50"
+  },
+  "proid": "C105",
+  "proname": "Canon EOS 1500D",
+  "proimage": "https://m.media-amazon.com/images/I/914hFeTU2-L._SX569_.jpg",
+  "proprice": " 38,899",
+  "procategory": "Camera",
+  "prodetail": "24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6362b21ee2c18aefb4570c56"
+  },
+  "proid": "C106",
+  "proname": "GoPro HERO11",
+  "proimage": "https://m.media-amazon.com/images/I/31VHrvwNS+L._SY300_SX300_.jpg",
+  "proprice": "49,916",
+  "procategory": "Camera",
+  "prodetail": "Black Waterproof Digital Action Camera with Touch Screen 5K Ultra HD Video 20MP Photos 1080p Live Streaming Stabilization, Dual Screen, Hyper-Smooth 3.0 and Time Warp 3.0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a876d430c8eb90afc09e7"
+  },
+  "proid": "G101",
+  "proname": "Logitech G213 ",
+  "proimage": "https://m.media-amazon.com/images/I/61Nt8geXzWL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "3,949",
+  "procategory": "GamingAccessories",
+  "prodetail": "Prodigy Gaming Keyboard, LIGHTSYNC RGB Backlit Keys, Spill-Resistant, Customizable Keys, Dedicated Multi-Media Keys - Black",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a879c430c8eb90afc09eb"
+  },
+  "proid": "G102",
+  "proname": "Redgear MP35 ",
+  "proimage": "https://m.media-amazon.com/images/I/61G5-hNFMYL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "299",
+  "procategory": "GamingAccessories",
+  "prodetail": "Speed-Type Gaming Mousepad (Black/Red)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a87d2430c8eb90afc09ef"
+  },
+  "proid": "G103",
+  "proname": "Ant Esports GP300 Pro",
+  "proimage": "https://m.media-amazon.com/images/I/41nePu8CbRS._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "999",
+  "procategory": "GamingAccessories",
+  "prodetail": "V2 Wireless Gaming Controller, Compatible for PC & Laptop (Windows 10/8 /7 XP, Steam) / PS3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a87f3430c8eb90afc09f3"
+  },
+  "proid": "G104",
+  "proname": "Killer Louis 38L ",
+  "proimage": "https://m.media-amazon.com/images/I/610uMTA5DAL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,801",
+  "procategory": "GamingAccessories",
+  "prodetail": "Large Laptop Backpack with 3 Compartments Black Polyester Trendy Waterproof Travel Backpack",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a881f430c8eb90afc09f7"
+  },
+  "proid": "G105",
+  "proname": " Roll over image to zoom in Zebronics Jet PRO",
+  "proimage": "https://m.media-amazon.com/images/I/71VR6c3j2bL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "949",
+  "procategory": "GamingAccessories",
+  "prodetail": "Premium Gaming Headphone with LED for Headband + earcups, 40mm Neodymium Drivers, 2 Meter Braided Cable, Flexible mic, Suspension Design, 3.5mm + USB Connector & in-line Controller Visit the ZEBRONICS Store",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a883f430c8eb90afc09fb"
+  },
+  "proid": "G106",
+  "proname": "SpinBot BattleMods X1",
+  "proimage": "https://m.media-amazon.com/images/I/41PXMMVuiEL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "449",
+  "procategory": "GamingAccessories",
+  "prodetail": " Mobile Gaming Triggers | Capacitive Conduction | for BGMI/Free Fire Max/COD Mobile/Apex Legends Mobile - (Blue)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8a77430c8eb90afc0a49"
+  },
+  "proid": "SP101",
+  "proname": "boAt Stone 180",
+  "proimage": "https://m.media-amazon.com/images/I/71vI6nfLtYL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "999",
+  "procategory": "Speakers",
+  "prodetail": "5W Bluetooth Speaker with Upto 10 Hours Playback, 1.75\" Driver, IPX7 & TWS Feature(Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8ab9430c8eb90afc0a4f"
+  },
+  "proid": "SP102",
+  "proname": "Zebronics ZEB-COUNTY",
+  "proimage": "https://m.media-amazon.com/images/I/81v-h4I5CCL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "549",
+  "procategory": "Speakers",
+  "prodetail": "3W Wireless Bluetooth Portable Speaker With Supporting Carry Handle, USB, SD Card, AUX, FM & Call Function. (Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8ae7430c8eb90afc0a55"
+  },
+  "proid": "SP103",
+  "proname": "Zebronics Zeb-Warrior ",
+  "proimage": "https://m.media-amazon.com/images/I/81grtcmxsyL._AC_UL480_FMwebp_QL65_.jpg",
+  "proprice": "719",
+  "procategory": "Speakers",
+  "prodetail": "2.0 Multimedia Speaker with Aux Connectivity,USB Powered and Volume Control",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8b14430c8eb90afc0a59"
+  },
+  "proid": "SP104",
+  "proname": "Tribit StormBox ",
+  "proimage": "https://m.media-amazon.com/images/I/71dKjtaMz+L._AC_UL480_FMwebp_QL65_.jpg",
+  "proprice": "16,999",
+  "procategory": "Speakers",
+  "prodetail": "Blast Bluetooth Speaker,Portable Speaker 90W Loud Stereo Sound with XBass LED Light Show Bluetooth 5.3,IPX7 Waterproof Speaker, PowerBank,TWS,Custom EQ,30H Playtime for Outdoor Party",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8b42430c8eb90afc0a5d"
+  },
+  "proid": "SP105",
+  "proname": "boAt Stone 352 ",
+  "proimage": "https://m.media-amazon.com/images/I/61K8FS335JL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,699",
+  "procategory": "Speakers",
+  "prodetail": "Bluetooth Speaker with 10W RMS Stereo Sound, IPX7 Water Resistance, TWS Feature, Up to 12H Total Playtime, Multi-Compatibility Modes(Raging Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8b74430c8eb90afc0a61"
+  },
+  "proid": "SP106",
+  "proname": "boAt Stone 170 ",
+  "proimage": "https://m.media-amazon.com/images/I/61Mq3HQ5MqL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,199",
+  "procategory": "Speakers",
+  "prodetail": "5W Speaker Bluetooth V4.2 and a SD Card Slot, with a Playback time of 6 Hours, IPX 6 Water Resistant Design (Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8bdf430c8eb90afc0a7b"
+  },
+  "proid": "H101",
+  "proname": "ZEBRONICS Zeb-Thunder ",
+  "proimage": "https://m.media-amazon.com/images/I/71O7+VmlvVL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "599",
+  "procategory": "Headset/Airpods",
+  "prodetail": "Zeb-Thunder Bluetooth Wireless Over Ear Headphone FM, mSD, 9 hrs Playback with Mic (Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8c11430c8eb90afc0a81"
+  },
+  "proid": "H102",
+  "proname": "JBL Tune 760NC",
+  "proimage": "https://m.media-amazon.com/images/I/61HXCeozUjL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "6,269",
+  "procategory": "Headset/Airpods",
+  "prodetail": "Over Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, JBL Pure Bass, Google Fast Pair, Dual Pairing, AUX & Voice Assistant Support for Mobile Phones (Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8c47430c8eb90afc0a85"
+  },
+  "proid": "H103",
+  "proname": "Boult Audio FXCharge",
+  "proimage": "https://m.media-amazon.com/images/I/61TRdHkY8eL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "999",
+  "procategory": "Headset/Airpods",
+  "prodetail": "ENC, 32H Playtime, 5min=7H Type C Fast Charging, Zen™ Environmental Noise Cancellation, 14.2 mm BoomX™ Rich Bass, IPX5, Probass Bluetooth Wireless Earphones Neckband (Green)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8c6a430c8eb90afc0a89"
+  },
+  "proid": "H104",
+  "proname": "boAt Rockerz 450 ",
+  "proimage": "https://m.media-amazon.com/images/I/51xxA+6E+xL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,299",
+  "procategory": "Headset/Airpods",
+  "prodetail": "Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8c94430c8eb90afc0a8d"
+  },
+  "proid": "H105",
+  "proname": "JBL C100SI",
+  "proimage": "https://m.media-amazon.com/images/I/51Q8DUDT2eL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "599",
+  "procategory": "Headset/Airpods",
+  "prodetail": "Wired In Ear Headphones with Mic, JBL Pure Bass Sound, One Button Multi-function Remote, Angled Buds for Comfort fit (Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8cc4430c8eb90afc0a93"
+  },
+  "proid": "H106",
+  "proname": "boAt Rockerz 370",
+  "proimage": "https://m.media-amazon.com/images/I/61kWB+uzR2L._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "999",
+  "procategory": "Headset/Airpods",
+  "prodetail": "On Ear Bluetooth Headphones with Upto 12 Hours Playtime, Cozy Padded Earcups and Bluetooth v5.0, with Mic (Buoyant Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8d7c430c8eb90afc0af2"
+  },
+  "proid": "S101",
+  "proname": "Zebronics DRIP",
+  "proimage": "https://m.media-amazon.com/images/I/613CqvGNUGL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "2,238",
+  "procategory": "SmartWatches",
+  "prodetail": "Smart Watch with Bluetooth Calling, 4.3cm (1.69\"), 10 Built-in & 100+ Watch Faces, 100+ Sport Modes, 4 Built-in Games, Voice Assistant, 8 Menu UI, Fitness Health & Sleep Tracker (Blue)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8e7a430c8eb90afc0b12"
+  },
+  "proid": "S102",
+  "proname": "Noise Pulse 2 Max",
+  "proimage": "https://m.media-amazon.com/images/I/61FszZ5YETL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "2,799",
+  "procategory": "SmartWatches",
+  "prodetail": "Advanced Bluetooth Calling Smart Watch with 1.85'' TFT and 550 Nits Brightness, Smart DND, 10 days Battery, 100 Sports Mode, Productivity Suite & Noise Health Suite - (Midnight Blue)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8e9e430c8eb90afc0b16"
+  },
+  "proid": "S103",
+  "proname": "boAt Wave",
+  "proimage": "https://m.media-amazon.com/images/I/614AipEWSIL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "2,499",
+  "procategory": "SmartWatches",
+  "prodetail": "Call Smart Watch, Smart Talk with Advanced Dedicated Bluetooth Calling Chip, 1.69” HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces, Multi-Sport Modes,HR,SpO2, IP68(Active Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8ec6430c8eb90afc0b1a"
+  },
+  "proid": "S104",
+  "proname": "Noise ColorFit Pulse",
+  "proimage": "https://m.media-amazon.com/images/I/618mFEP9mTL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,899",
+  "procategory": "SmartWatches",
+  "prodetail": "Grand Smart Watch with 1.69\" HD Display, 60 Sports Modes, 150 Watch Faces, Spo2 Monitoring, Call Notification, Quick Replies to Text & Calls (Rose Pink)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8ee4430c8eb90afc0b1e"
+  },
+  "proid": "S105",
+  "proname": "Fire-Boltt Phoenix",
+  "proimage": "https://m.media-amazon.com/images/I/61yTQ1B3yBL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,999",
+  "procategory": "SmartWatches",
+  "prodetail": " Smart Watch with Bluetooth Calling 1.3\",120+ Sports Modes, 240*240 PX High Res with SpO2, Heart Rate Monitoring & IP67 Rating",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a8f04430c8eb90afc0b22"
+  },
+  "proid": "S106",
+  "proname": "Noise Pulse Go Buzz",
+  "proimage": "https://m.media-amazon.com/images/I/61akt30bJsL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "2,499",
+  "procategory": "SmartWatches",
+  "prodetail": "Smart Watch with Smart Call & Advanced Bluetooth Tech, 1.69\" Display, Noise Health Suite, 150+ Cloud Watch Face, 100 Sports Mode with Auto Detection, Longer Battery (Jet Black)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639fddb1b76c73e43c2dd27b"
+  },
+  "proid": "L110",
+  "proname": "ASUS ROG Strix G17 (2022)",
+  "proimage": "https://m.media-amazon.com/images/I/71oNV6U1mHL._AC_UY327_FMwebp_QL65_.jpg",
+  "proprice": "1,88,500",
+  "procategory": "Laptop",
+  "prodetail": "AMD Ryzen 9 6900HX, 4GB RTX 3070 Ti Graphics, Gaming Laptop (16GB/1TB SSD/90WHrs Battery/Win 11/Office/Volt Green/2.9 kg), G713RW-LL133WS",
+  "__v": 0
+}]

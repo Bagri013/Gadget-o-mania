@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* #home-sec {
+  background-image: linear-gradient(
+      rgba(55, 58, 50, 0.2),
+      rgba(70, 70, 70, 0.1)
+    ),
+    url(https://images.pexels.com/photos/3184451/pexels-photo-3184451.jpeg?auto=compress&cs=tinysrgb&w=1600);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+} */
+
+/* .detail-sec {
+  padding-top: 4rem;
+  font-size: 1.3rem;
+} */
+
+/* .video-bg {
+  min-width: 100%;
+  min-height: 100%;
+} */
+.bg-class {
+  background-image: url("https://images.pexels.com/photos/3981749/pexels-photo-3981749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+/* next size - tablet */
+@media (min-width: 768px) {
+  .bg-class {
+    background-image: url("https://images.pexels.com/photos/3981749/pexels-photo-3981749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  }
+}
+
+/* next size - tablet landscape and it covers desktop */
+@media (min-width: 1024px) {
+  .bg-class {
+    background-image: url("https://t3.ftcdn.net/jpg/01/70/80/52/240_F_170805293_mP8dwQvg7ip4tFRyXNs7xhIs470dBArn.jpg");
+  }
+}
+
+/* next size - larger desktops */
+@media (min-width: 1280px) {
+  .bg-class {
+    background-image: url("https://t3.ftcdn.net/jpg/03/67/42/72/240_F_367427223_shuSETlqklI8GxwRgqEp0vZL0h6mPyD7.jpg");
+  }
+}
+.mask-color {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+/* for masking */
+/* .mask-bg {
+  background-color: rgba(0, 0, 0, 0.0);
+} */
+
+/* previous cart bg */
+/* https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg?w=1480&t=st=1658555707~exp=1658556307~hmac=13f0c86fc7ffbe6288ab1d29015041ed7eed14607e1006ee20fec5160371bfa2 */
+/* https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvay1wLTIxMC1jaGltLTAwNzUuanBn.jpg */
+
+/* video for small device */
+/* @media only screen and (max-width: 850px)  {
+    #intro video {
+      src: url(https://player.vimeo.com/external/490461261.hd.mp4?s=310d843924362c06e278ce1fc5fcdbea61fc55ed&profile_id=174&oauth2_token_id=57447761);
+    }
+} */
+
+/* img-bg */
+/* https://mdbootstrap.com/snippets/standard/mdbootstrap/2515521?view=side */
+
+/* for gaming picture */
+/* https://t4.ftcdn.net/jpg/03/11/61/01/240_F_311610130_NJt6MRo38xMcnEED9UUUjQjJHe6PkeOx.jpg */
+/* https://t4.ftcdn.net/jpg/02/24/88/07/240_F_224880717_YmNbocwrjak9AyvQ9QrTnELWCeOGtKvH.jpg */
