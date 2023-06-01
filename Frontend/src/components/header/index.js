@@ -84,6 +84,11 @@ export default function Header() {
                   </li>
                 </ul>
               </li>
+              <li className="nav-item ">
+                <a className="nav-link btn btn-success me-2 " href="/AddToCartForm">
+                 Go to Cart
+                </a>
+              </li>
             </ul>
             <button className="btn btn-outline-primary" onClick={handleLogout}>
               Logout

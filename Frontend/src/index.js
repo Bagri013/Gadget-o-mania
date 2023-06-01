@@ -25,6 +25,7 @@ import Gaming from "./components/categories/Gaming";
 import Watch from "./components/categories/Watch";
 import Headset from "./components/categories/Headset";
 import Speaker from "./components/categories/Speaker";
+import AddToCartForm from "./components/cart/index.js";
 import "../node_modules/jquery/dist/jquery.min.js";
 import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
@@ -89,6 +90,9 @@ root.render(
         
         {user && <Route path="/Speaker" exact element={<Speaker />} />}
         <Route path="/Speaker" exact element={<Navigate replace to="/Sign_in" />} />
+
+        {user && <Route path="/AddToCartForm" exact element={<AddToCartForm />} />}
+        <Route path="/AddToCartForm" exact element={<Navigate replace to="/Sign_in" />} />
 
       </Routes>
     </Router>
